@@ -1,4 +1,4 @@
-update=Do 30 Jul 2015 19:36:13 CEST
+update=Do 06 Aug 2015 21:48:27 CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,3 +61,4 @@ LibName29=contrib
 LibName30=valves
 LibName31=/home/philipp/Dokumente/dev/PhilippsKicadBauteile/Schaltplansymbole/ph-adc-dac
 LibName32=/home/philipp/Dokumente/dev/PhilippsKicadBauteile/Schaltplansymbole/ph-clock
+LibName33=/home/philipp/Dokumente/dev/PhilippsKicadBauteile/Schaltplansymbole/ph-minicircuits
